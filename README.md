@@ -7,7 +7,7 @@
 <p align="center">
   <a href="examples/python/"><img src="https://img.shields.io/badge/python-3.8+-blue" alt="Python"></a>
   <a href="examples/javascript/"><img src="https://img.shields.io/badge/javascript-ES2020+-yellow" alt="JavaScript"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" alt="License: CC BY-NC-SA 4.0"></a>
 </p>
 
 Welcome to the **TradeLead Company Enrichment API** usage repository. This repo contains documentation and runnable examples to help you integrate AI-powered company enrichment into your workflows.
